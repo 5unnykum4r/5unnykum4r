@@ -4,7 +4,7 @@
 - 📫 You can reach me at 5unnykum4r@gmail.com
 - 💕 Here is some of my works
   - <a href="https://theguidex.com">TheGuideX</a>
-  - <a href="https://thewpx.com">TheWPX</a>
+  - <a href="https://heyserp.com">HeySERP</a>
 
   And my personal website - <a href="https://sunnysah.com">Sunny Sah</a>
 
