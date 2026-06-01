@@ -11,6 +11,7 @@ I'm a developer and SEO strategist from **New Delhi, India**, skilled in Python,
 - **[Grip AI](https://github.com/5unnykum4r/grip-ai)** — A lightweight OpenClaw alternative written in Python for self-hosting AI agents.
 - **[Repulp](https://github.com/5unnykum4r/repulp)** — Parallel batch document conversion, watch mode, and structured extraction — powered by MarkItDown.
 - **[WordPress MCP](https://github.com/5unnykum4r/wordpress-mcp)** — An MCP server that gives AI agents full control over WordPress sites. 46 tools for posts, pages, media, SEO, comments, redirects, and more.
+- **[Carousify](https://carousify.com)** - A LinkedIn growth marketing platform for content creators.
 
 ### What I Do
 
